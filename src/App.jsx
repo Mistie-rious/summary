@@ -2,10 +2,10 @@ import { useState } from 'react'
 import React from 'react'
 
 import './App.css'
-import memory from './Assets/memory.svg'
-import visual from './Assets/visual.svg'
-import verbal from './Assets/verbal.svg'
-import reaction from './Assets/eaction.svg'
+import memory from './assets/memory.svg'
+import visual from './assets/visual.svg'
+import verbal from './assets/verbal.svg'
+import reaction from './assets/eaction.svg'
 function App() {
   const [count, setCount] = useState(0)
 
